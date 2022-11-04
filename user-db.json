@@ -1,0 +1,40 @@
+{
+  "user-db": [
+    {
+      "id": 1,
+      "username": "kunalsa",
+      "email": "lol@lol.co",
+      "pass": "123456",
+      "country": "india",
+      "age": "23",
+      "phone": "9034040452"
+    },
+    {
+      "username": "kunalsa",
+      "email": "kunal@gmail.com",
+      "pass": "/////////",
+      "country": "USA",
+      "age": "23",
+      "phone": "9034040452",
+      "id": 2
+    },
+    {
+      "username": "kunalsa",
+      "email": "stark@paytm",
+      "pass": "////////",
+      "country": "india",
+      "age": "23",
+      "phone": "09034040452",
+      "id": 3
+    },
+    {
+      "username": "bhavana",
+      "email": "stark@paytm",
+      "pass": "zxcvbnm",
+      "country": "IN",
+      "age": "23",
+      "phone": "09034040452",
+      "id": 4
+    }
+  ]
+}
